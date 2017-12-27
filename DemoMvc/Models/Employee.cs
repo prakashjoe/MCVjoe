@@ -9,5 +9,7 @@ namespace DemoMvc.Models
     {
         public int EmpId { get; set; }
         public string Name { get; set; }
+        public string surname { get; set; }
+
     }
 }
